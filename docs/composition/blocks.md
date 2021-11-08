@@ -21,17 +21,15 @@ Navigating back and forth between blocks is not simple. In the beginning of a bl
 
 ### Middle of Block
 
-The **middle of the block** builds up an idea through a combination of questions and explanations. New terminology is introduced. Callbacks to earlier parts of the lesson are expected. There should be no question-less blocks, except for bookends.
+The middle of the block builds up an idea through a combination of questions and explanations. New terminology is introduced. Callbacks to earlier parts of the lesson are expected. There should be no question-less blocks, except for bookends.
 
 We do not use subheadings for organization within a block. Subheadings suggests your block should split into multiple blocks.
 
 ### End of Block
 
-The end of the block distills the main idea, highlighted by a concept box. Reinforcing questions optionally appear after the concept box. The last step of a block should extend a bridge to the next block.
+The end of the block distills the main idea, highlighted by a concept box. Reinforcing questions or remarks optionally appear after the concept box. The last step of a block should extend a bridge to the next block.
 
 ??? example "Example"
-
-
 
     === "Step With Boxed Concept"
 

@@ -14,7 +14,7 @@
     
     
       
-        <title>Code - Editorial Docs</title>
+        <title>Glossary Cards - Editorial Docs</title>
       
     
     
@@ -88,7 +88,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Code
+              Glossary Cards
             
           </span>
         </div>
@@ -292,6 +292,20 @@
               
   
   
+  
+    <li class="md-nav__item">
+      <a href="../code/" class="md-nav__link">
+        Code
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
     
   
   
@@ -302,37 +316,9 @@
       
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Code
-      </a>
-      
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../glossary/" class="md-nav__link">
         Glossary Cards
       </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../operations/" class="md-nav__link">
-        Operations and Special Functions
-      </a>
+      
     </li>
   
 
@@ -371,16 +357,22 @@
               
                 
                 
-                  <h1>Code</h1>
+                  <h1>Glossary Cards</h1>
                 
                 <div class="admonition tldr">
 <p class="admonition-title">Rule</p>
-<p>Use the inline code environment for individual commands and snippets that are less than a line of code. Otherwise, use a code block.</p>
+<p>Glossary cards display the meanings of important terms. They are placed so that users don't need to navigate to an earlier block or lesson to look up the meaning of a term.</p>
 </div>
-<p>Like numbers and variables, code and pseudocode should not appear as plain text in a Brilliant lesson.</p>
-<p>In Camperdown, there is a specific code display environment that is initiated by the escape `...`.  This inline code environment is used for single commands up to a full line of code from a program.</p>
-<p>If a code snippet is longer than a line in a program, or if the line is long enough that it breaks across lines in the lesson, the escape ``` initiates a code block.</p>
-<p>When you include a block of code that is not pseudocode, write the name of the language in which it's written in the first line.</p>
+<ul>
+<li>Don't use a glossary card on the first use of a term in a course. The term should be formatted in boldface, and may appear in a concept box.</li>
+<li>When a term appears next, after the block in which it is first introduced, attach a glossary card to it with the Camperdown markup <code>[term](glossary "label for term")</code></li>
+<li>The same glossary card should not appear more than once in the same block — learners can scroll up to find glossary cards. Too many glossary cards in a lesson feels clutter-y.</li>
+<li>Assume the learner needs to reference the glossary card in the first ~3 blocks in which the term is used.</li>
+<li>When a term is used in a subsequent lesson, the first occurrence should have a glossary card attached. You don't need to attach a card to subsequent occurrences in the same lesson.</li>
+<li>If a term is central to the course, and is used in nearly every lesson after it is introduced, stop attaching a glossary card to the first occurrence of the term after the third lesson after it was introduced.</li>
+</ul>
+                
+                  
                 
               
               
@@ -400,7 +392,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../boldface/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Boldface" rel="prev">
+        <a href="../code/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Code" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -409,20 +401,20 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Boldface
+              Code
             </div>
           </div>
         </a>
       
       
         
-        <a href="../glossary/" class="md-footer__link md-footer__link--next" aria-label="Next: Glossary Cards" rel="next">
+        <a href="../strings/" class="md-footer__link md-footer__link--next" aria-label="Next: Strings" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Glossary Cards
+              Strings
             </div>
           </div>
           <div class="md-footer__button md-icon">
