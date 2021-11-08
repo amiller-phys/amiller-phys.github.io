@@ -3,6 +3,8 @@ theme:
   name: material
   font:
     text: HelveticaNeue
+  palette:
+    scheme: slate
 plugins:
   - search
 markdown_extensions:
@@ -10,6 +12,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
+  - meta
   - pymdownx.arithmatex:
       generic: true
 

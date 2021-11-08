@@ -12,9 +12,12 @@ The **beginning of a block** announces the main idea in light of the preceding c
 - Blocks begin with headings that signal to the learner what to expect in this block.
 - Navigating back and forth between blocks is not simple. In the beginning of a block, you should include all information the learner needs to navigate the block successfully — even if it introduces some redundancy in the lesson.
 
-??? example
+![Placeholder](https://dummyimage.com/600x400/eee/aaa){ align=left }
 
-    ![example image](block_begin.png){width = 100}
+
+![example image](block_begin.png){align=left}
+
+This step
 
 
 
