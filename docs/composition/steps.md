@@ -1,8 +1,8 @@
 
 
-:::info
-A step can be a single sentence or a few sentences. Steps are the basic increment of content and should advance a single, complete thought. For each step, it should be entirely clear what is being advanced.
-:::
+!!!tldr "Rule"
+    A step can be a single sentence or a few sentences. Steps are the basic increment of content and should advance a single, complete thought. For each step, it should be entirely clear what is being advanced.
+
 
 - **Basic example**
 
