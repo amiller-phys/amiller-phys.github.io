@@ -17,8 +17,6 @@ The **beginning of a block** announces the main idea in light of the preceding c
 
 ![example image](block_begin.png){align=left}
 
-This step
-
 
 
 The **middle of the block** builds up an idea through a combination of questions and explanations. New terminology is introduced. Callbacks to earlier parts of the lesson are expected. There should be no question-less blocks, except for bookends.
