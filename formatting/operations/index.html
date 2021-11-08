@@ -14,7 +14,7 @@
     
     
       
-        <title>Code - Editorial Docs</title>
+        <title>Operations and Special Functions - Editorial Docs</title>
       
     
     
@@ -88,7 +88,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Code
+              Operations and Special Functions
             
           </span>
         </div>
@@ -292,19 +292,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../code/" class="md-nav__link">
         Code
       </a>
-      
     </li>
   
 
@@ -328,11 +320,19 @@
               
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../operations/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Operations and Special Functions
       </a>
+      
     </li>
   
 
@@ -371,16 +371,35 @@
               
                 
                 
-                  <h1>Code</h1>
+                  <h1>Operations and Special Functions</h1>
                 
                 <div class="admonition tldr">
 <p class="admonition-title">Rule</p>
-<p>Use the inline code environment for individual commands and snippets that are less than a line of code. Otherwise, use a code block.</p>
+<p>Learners can digest lessons across the Brilliant library without encountering friction due to a different notations.</p>
 </div>
-<p>Like numbers and variables, code and pseudocode should not appear as plain text in a Brilliant lesson.</p>
-<p>In Camperdown, there is a specific code display environment that is initiated by the escape `...`.  This inline code environment is used for single commands up to a full line of code from a program.</p>
-<p>If a code snippet is longer than a line in a program, or if the line is long enough that it breaks across lines in the lesson, the escape ``` initiates a code block.</p>
-<p>When you include a block of code that is not pseudocode, write the name of the language in which it's written in the first line.</p>
+<p>A lot of mathematical notation is standard (<code>+</code> will always stand for addition). It would a waste of time to make an exhaustive list of operations here. What follows is a list of operations where there's some choice in how their represented, and where Brilliant lessons fall</p>
+<ul>
+<li>A products of two numbers, or a scalar product of two vectors, is indicated by <code>\cdot</code></li>
+</ul>
+<div class="admonition success">
+<p><span class="arithmatex">\(3 \cdot 4 = 12\)</span></p>
+</div>
+<div class="admonition failure">
+<p><span class="arithmatex">\(3 \times 4 = 12\)</span></p>
+</div>
+<ul>
+<li>A product between a number and a variable needs no explicit operand. Multiplication is understood.</li>
+<li>Division should generally be represented by <code>/</code>, but if you are writing for a novice audience, the <code>÷</code> symbol is okay. Be aware that <code>÷</code> can be confused for a <code>+</code> on the site.</li>
+<li>The cross product between vectors is represented by <code>\times</code></li>
+<li>Use <code>\log</code> for the natural log. If other than natural log, write the base as a subscript: <span class="arithmatex">\(\log_2\)</span></li>
+<li>Use <code>e^{}</code> for the exponential function, unless the expression in the exponent is exceptionally complicated, in which case use <code>\exp()</code> with a glossary card that describes the notation.</li>
+<li><span class="arithmatex">\(\csc, \sec, \cot\)</span> and <span class="arithmatex">\(\tan\)</span>: These functions are not as familiar or as fundamental as <span class="arithmatex">\(\sin\)</span> and <span class="arithmatex">\(\cos\)</span>. When you use them, you are relying on a learner's ability to recall their definitions — not their reasoning or intuition. When you do use them, acknowledge that some people are not going to remember, for example, if <span class="arithmatex">\(\sin\)</span> or <span class="arithmatex">\(\cos\)</span> is in the numerator of <span class="arithmatex">\(\tan.\)</span> Using glossary cards to provide definitions of these functions is a good solution.</li>
+<li>Inverse trig functions should be formatted like so: <span class="arithmatex">\(\cos^{-1}\)</span></li>
+<li>For other special functions, use standard symbols — <span class="arithmatex">\(\text{erf}, \Gamma, J_\alpha,\)</span> and others.</li>
+</ul>
+<p>The symbols we use for certain operations may be slightly different for different audiences. For example, a course on partial differential equations can assume more familiarity with different notations than a course on algebra. If a course you're writing needs to deviate from the standard symbology above, raising it on Slack in <code>#editorial-lounge</code> is a good idea.</p>
+                
+                  
                 
               
               
@@ -400,7 +419,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../boldface/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Boldface" rel="prev">
+        <a href="../glossary/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Glossary Cards" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -409,20 +428,20 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Boldface
+              Glossary Cards
             </div>
           </div>
         </a>
       
       
         
-        <a href="../glossary/" class="md-footer__link md-footer__link--next" aria-label="Next: Glossary Cards" rel="next">
+        <a href="../strings/" class="md-footer__link md-footer__link--next" aria-label="Next: Strings" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Glossary Cards
+              Strings
             </div>
           </div>
           <div class="md-footer__button md-icon">

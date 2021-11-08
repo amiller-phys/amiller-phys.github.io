@@ -14,7 +14,7 @@
     
     
       
-        <title>Code - Editorial Docs</title>
+        <title>Strings - Editorial Docs</title>
       
     
     
@@ -88,7 +88,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Code
+              Strings
             
           </span>
         </div>
@@ -292,19 +292,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../code/" class="md-nav__link">
         Code
       </a>
-      
     </li>
   
 
@@ -328,25 +320,19 @@
               
   
   
-  
-    <li class="md-nav__item">
-      <a href="../operations/" class="md-nav__link">
-        Operations and Special Functions
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
+    
   
   
-  
-    <li class="md-nav__item">
-      <a href="../strings/" class="md-nav__link">
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Strings
       </a>
+      
     </li>
   
 
@@ -371,16 +357,21 @@
               
                 
                 
-                  <h1>Code</h1>
+                  <h1>Strings</h1>
                 
-                <div class="admonition tldr">
-<p class="admonition-title">Rule</p>
-<p>Use the inline code environment for individual commands and snippets that are less than a line of code. Otherwise, use a code block.</p>
+                <p>In some Brilliant lessons, we attach technical importance to strings of letters that are not necessarily words. Working with these objects is central to the learning experience, so they are formatted in the math environment.</p>
+<p>For example, in the computational biology course, nucleotide sequences are given to and manipulated by the learner to solve problems.</p>
+<div class="admonition check">
+<p class="admonition-title">Example</p>
+<p>The "TATA box" is a canonical example — a short nucleotide sequence <span class="arithmatex">\(\tt{TATAAAA}\)</span> found on the coding strand just before the start of the gene.</p>
 </div>
-<p>Like numbers and variables, code and pseudocode should not appear as plain text in a Brilliant lesson.</p>
-<p>In Camperdown, there is a specific code display environment that is initiated by the escape `...`.  This inline code environment is used for single commands up to a full line of code from a program.</p>
-<p>If a code snippet is longer than a line in a program, or if the line is long enough that it breaks across lines in the lesson, the escape ``` initiates a code block.</p>
-<p>When you include a block of code that is not pseudocode, write the name of the language in which it's written in the first line.</p>
+<p>In a logic course, the objects a learner manipulates could be logic gates:</p>
+<div class="admonition check">
+<p class="admonition-title">Example</p>
+<p>The simplest half-adder design incorporates <span class="arithmatex">\(\mathbf{XOR}\)</span> and <span class="arithmatex">\(\mathbf{AND}.\)</span></p>
+</div>
+<p>Similar to the guidance for equations, strings are punctuated as if they were nouns in a sentence, and the punctuation is typeset in the math environment to avoid hanging punctuation.</p>
+<p>In a lesson you're writing, if the learner will manipulate objects represented by strings, math formatting is probably correct, but because these cases are rare, we encourage you to post about your use case in the Slack channel <code>#editorial-lounge</code>.</p>
                 
               
               
@@ -400,7 +391,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../boldface/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Boldface" rel="prev">
+        <a href="../glossary/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Glossary Cards" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -409,26 +400,11 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Boldface
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../glossary/" class="md-footer__link md-footer__link--next" aria-label="Next: Glossary Cards" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
               Glossary Cards
             </div>
           </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-          </div>
         </a>
+      
       
     </nav>
   
