@@ -14,7 +14,7 @@
     
     
       
-        <title>Steps - Editorial Docs</title>
+        <title>Code - Editorial Docs</title>
       
     
     
@@ -88,7 +88,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Steps
+              Code
             
           </span>
         </div>
@@ -188,14 +188,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
       
       
@@ -218,7 +216,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../blocks/" class="md-nav__link">
+      <a href="../../composition/blocks/" class="md-nav__link">
         Blocks
       </a>
     </li>
@@ -230,19 +228,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../composition/steps/" class="md-nav__link">
         Steps
       </a>
-      
     </li>
   
 
@@ -260,12 +250,14 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
       
       
       
@@ -288,7 +280,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../formatting/boldface/" class="md-nav__link">
+      <a href="../boldface/" class="md-nav__link">
         Boldface
       </a>
     </li>
@@ -300,11 +292,19 @@
               
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../../formatting/code/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Code
       </a>
+      
     </li>
   
 
@@ -316,7 +316,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../formatting/glossary/" class="md-nav__link">
+      <a href="../glossary/" class="md-nav__link">
         Glossary Cards
       </a>
     </li>
@@ -330,7 +330,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../formatting/strings/" class="md-nav__link">
+      <a href="../strings/" class="md-nav__link">
         Strings
       </a>
     </li>
@@ -357,72 +357,16 @@
               
                 
                 
-                  <h1>Steps</h1>
+                  <h1>Code</h1>
                 
                 <div class="admonition tldr">
 <p class="admonition-title">Rule</p>
-<p>A step can be a single sentence or a few sentences. Steps are the basic increment of content and should advance a single, complete thought. For each step, it should be entirely clear what is being advanced.</p>
+<p>Use the inline code environment for individual commands and snippets that are less than a line of code. Otherwise, use a code block.</p>
 </div>
-<ul>
-<li>
-<p><strong>Basic example</strong></p>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/630308d4-2aaf-4a08-abcc-77489fac7b12/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/630308d4-2aaf-4a08-abcc-77489fac7b12/Untitled.png" /></p>
-<ul>
-<li>This step elaborates on a single idea: "The middle layer of this ANN selects certain input combinations."</li>
-<li>Most steps should not be longer than this one.</li>
-</ul>
-</li>
-</ul>
-<p>If one of the sentences is a transitional sentence, use a <strong>line break</strong> between sentences.</p>
-<ul>
-<li>
-<p><strong>Example with a line break</strong></p>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f55cb8c2-9a9e-4b65-af73-2aa930704eb9/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f55cb8c2-9a9e-4b65-af73-2aa930704eb9/Untitled.png" /></p>
-<ul>
-<li>This step elaborates on a single idea: "The distance <span class="arithmatex">\(D\)</span> between Buzz and the hive increases with time <span class="arithmatex">\(t\)</span>."</li>
-<li>This step includes some transitional text, which is displayed on a separate line. Transitional text may come before or after the main idea of a step.</li>
-</ul>
-</li>
-</ul>
-<p>A step may contain an MCQ or lightweight question. The text in the step should introduce or include the setup information for the question.</p>
-<p>If the question is an MCQ, only the question text should appear in the solvable box. If the supporting text doesn't make sense as a complete thought, it should be displayed in the same step as the MCQ</p>
-<ul>
-<li>
-<p><strong><a href="https://brilliant.org/courses/intro-neural-networks/neurons-2/decision-box-2/3/?version_id=1474">Example with question and text</a></strong></p>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ca36a3e-e37e-4bc6-8a95-1ed58a9efeff/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ca36a3e-e37e-4bc6-8a95-1ed58a9efeff/Untitled.png" /></p>
-<ul>
-<li>The supporting text above the solvable box is needed to solve the problem, and is short enough to be part of the same step as the MCQ.</li>
-<li>For questions with more supporting text, the text may be split across several steps. Try to construct these steps so that they advance single, complete thoughts leading up to the question.</li>
-</ul>
-</li>
-</ul>
-<p>A step with an image can take up a lot of vertical space. Try to arrange for the entire step (image + text) to appear on the screen without requiring the learner to scroll. This may require putting the image into the right lane, or introducing the image with minimal text.</p>
-<ul>
-<li>
-<p><strong><a href="https://brilliant.org/courses/pre-algebra/introduction-66/number-relationships/4/?version_id=2084">Example with image and text</a></strong></p>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23e7d399-e055-413b-980a-c43fa3603172/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23e7d399-e055-413b-980a-c43fa3603172/Untitled.png" /></p>
-<ul>
-<li>This circle diagram image fits on screen with the descriptive text for a zoom setting near 100%.</li>
-<li>It is okay to put text above and below the image. The order of image and text should correspond to how you would like the learner to digest the step.</li>
-<li>Here, the author intended for the learner to glance at the diagram before reading the details in the second sentence.</li>
-<li><strong><a href="https://brilliant.org/courses/puzzle-science/structure-3/gears-diagrmmar-2/2/">Example with image, text, and question</a></strong></li>
-</ul>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f291b82f-57e2-4ec2-beca-2c8bc3eca268/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f291b82f-57e2-4ec2-beca-2c8bc3eca268/Untitled.png" /></p>
-<ul>
-<li>It is possible to format a step with an MCQ, short supporting text, and an image. This is a common pattern.</li>
-<li>If the step is taller than the screen, and the question is partly off-screen upon reveal, it's not a terrible experience for the learner. Sometimes this is the only layout solution.</li>
-<li>However, a better solution is to move the MCQ to the sidekick lane.</li>
-<li><strong><a href="https://brilliant.org/courses/computer-science-algorithms/the-speed-of-algorithms-2/timing-programs/6/?version_id=2085">Example with image, text, and question:</a></strong></li>
-</ul>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33d57940-1956-4125-8b25-4aa9c3487a73/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33d57940-1956-4125-8b25-4aa9c3487a73/Untitled.png" /></p>
-<p>When you need more than two or three sentences to advance a single, complete thought, place an image or interactive a relevant image or interactive in the left lane. This layout is the only time it's acceptable to reveal more than three sentences in one step.</p>
-<ul>
-<li>Here, the MCQ is placed in the sidekick lane because the text, image, and MCQ are too tall for a single lane.</li>
-<li><strong><a href="https://brilliant.org/courses/calculus-nutshell-diagrammar/derivatives-7/what-derivative/3/?version_id=2082">Example</a> with image</strong></li>
-</ul>
-<p><img alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7c2ec24-84ed-482d-b017-a77c64caabb9/Untitled.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7c2ec24-84ed-482d-b017-a77c64caabb9/Untitled.png" /></p>
-</li>
-</ul>
+<p>Like numbers and variables, code and pseudocode should not appear as plain text in a Brilliant lesson.</p>
+<p>In Camperdown, there is a specific code display environment that is initiated by the escape `...`.  This inline code environment is used for single commands up to a full line of code from a program.</p>
+<p>If a code snippet is longer than a line in a program, or if the line is long enough that it breaks across lines in the lesson, the escape ``` initiates a code block.</p>
+<p>When you include a block of code that is not pseudocode, write the name of the language in which it's written in the first line.</p>
                 
               
               
@@ -442,7 +386,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../blocks/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Blocks" rel="prev">
+        <a href="../boldface/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Boldface" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -451,20 +395,20 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Blocks
+              Boldface
             </div>
           </div>
         </a>
       
       
         
-        <a href="../../formatting/boldface/" class="md-footer__link md-footer__link--next" aria-label="Next: Boldface" rel="next">
+        <a href="../glossary/" class="md-footer__link md-footer__link--next" aria-label="Next: Glossary Cards" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Boldface
+              Glossary Cards
             </div>
           </div>
           <div class="md-footer__button md-icon">
