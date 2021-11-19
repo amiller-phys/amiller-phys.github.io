@@ -1,9 +1,8 @@
 # MCQs
 
-<aside>
-📏 When the question is an MCQ, the question setup text lives outside the solvable box. Only the question statement lives inside the box.
+!!!tldr "Rule"
+        When the question is an MCQ, the question setup text lives outside the solvable box. Only the question statement lives inside the box.
 
-</aside>
 
 - The setup and motivation for the question is outside the solvable box.
 - Only the question statement is inside the box.

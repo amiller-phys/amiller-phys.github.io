@@ -1,9 +1,7 @@
 # Bookends
 
-<aside>
-📏 Bookends begin and end every lesson on Brilliant. They preview and summarize the lesson's purpose in non-technical and succinct language. They are never more than a few sentences.
-
-</aside>
+!!!tldr "Rule"
+        Bookends begin and end every lesson on Brilliant. They preview and summarize the lesson's purpose in non-technical and succinct language. They are never more than a few sentences.
 
 - Bookends are signposts that orient the learner between lessons. They do not contain a full picture of the lesson. Rather, they highlight the essentials and invite the learner to keep going.
 - The focus of the **opening bookend** is telling the learner what they will do in the current lesson.

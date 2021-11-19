@@ -1,10 +1,7 @@
 # Naming Variables
 
-
-<aside>
-📏 Variables add a layer of abstraction to a Brilliant lesson. We can make this abstraction feel seamless by selecting instructive, descriptive symbols for variables.
-
-</aside>
+!!!tldr "Rule"
+        Variables add a layer of abstraction to a Brilliant lesson. We can make this abstraction feel seamless by selecting instructive, descriptive symbols for variables.
 
 To the learner, variables should represent tangible, manipulatable objects — they shouldn't be a cypher that only a mathematical super-sleuths can decode.
 

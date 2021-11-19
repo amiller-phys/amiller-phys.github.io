@@ -1,9 +1,8 @@
 # Fractions and Rational Expressions
 
-<aside>
-📏 Inline fractions are always formatted using `/` , except for simple fraction like $\frac34$or $\frac{\pi}{2}$.
+!!!tldr "Rule"
+    Inline fractions are always formatted using `/` , except for simple fraction like $\frac34$or $\frac{\pi}{2}$.
 
-</aside>
 
 Guidelines for formatting fractions are similar to formatting numbers, with one complication.
 

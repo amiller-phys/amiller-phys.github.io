@@ -1,9 +1,8 @@
 # Lightweight Questions
 
-<aside>
-📏 **Lightweight Questions** — Lightweight questions are used for when the user doesn't yet have the tools to know the right answer or when we want them to guess.
+!!!tldr "Rule"
+        Lightweight questions are used for when the user doesn't yet have the tools to know the right answer or when we want them to guess.
 
-</aside>
 
 - Lightweight questions **should** be used when
     - there is no right answer

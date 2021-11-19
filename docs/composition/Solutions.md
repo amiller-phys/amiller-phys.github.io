@@ -1,9 +1,7 @@
 # Solutions
 
-<aside>
-📏 If a solution requires several images, or breaks naturally into a linear set of steps, use a stepped solution. Otherwise, it's usually okay to put the solution on a single step.
-
-</aside>
+!!!tldr "Rule"
+        If a solution requires several images, or breaks naturally into a linear set of steps, use a stepped solution. Otherwise, it's usually okay to put the solution on a single step.
 
 Single-step format is good for short solutions, solutions that don't require a lot of images, and solutions that feature a stepped diagrammar.
 

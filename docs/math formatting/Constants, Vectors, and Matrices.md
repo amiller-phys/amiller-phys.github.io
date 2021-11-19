@@ -1,9 +1,7 @@
 # Constants, Vectors, and Matrices
 
-<aside>
-📏 The class of a mathematical object should be apparent from the symbol we use to represent it.
-
-</aside>
+!!!tldr "Rule"
+    The class of a mathematical object should be apparent from the symbol we use to represent it.
 
 Brilliant lessons help learners develop a taste for different mathematical ideas. In our lessons,  equations are not chunks of math that break up the text. Words fall into different classes and so do mathematical objects. We'd like to reflect the class of an object in the characteristics of the symbol we choose to represent it.
 
@@ -13,18 +11,13 @@ Below are some of the naming conventions we aim to follow:
 - Use lowercase, bold letters for vectors.
 - If it's important to indicate a vector has unit length, use `\hat{}`.
 
-<aside>
-✅ The vector $\mathbf{\hat x}-\mathbf{\hat y}$ points from $(0, 0)$ to $(1, -1).$
+The vector $\mathbf{\hat x}-\mathbf{\hat y}$ points from $(0, 0)$ to $(1, -1).$
 
-</aside>
 
 - Use uppercase, bold letters for matrices
 - If you have a vector/matrix, and you want to write its components, follow the convention in this example:
 
-<aside>
-✅ The matrix $\mathbf{A}$ is antisymmetric, so its elements obey $A_{ij} = - A_{ji}.$
-
-</aside>
+The matrix $\mathbf{A}$ is antisymmetric, so its elements obey $A_{ij} = - A_{ji}.$
 
 - Matrices are always typeset in the centered math environment using `\begin{pmatrix} ... \end{pmatrix}`
 

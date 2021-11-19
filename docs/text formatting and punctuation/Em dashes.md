@@ -1,9 +1,7 @@
 # Em dashes
 
-<aside>
-📏 Whenever you want to use a colon, semicolon, or parenthesis — opt for the em dash.
-
-</aside>
+!!!tldr "Rule"
+    Whenever you want to use a colon, semicolon, or parenthesis — opt for the em dash.
 
 The em dash is a versatile punctuation mark that can stand in for the colon, semicolon, parentheses, and even the comma, as a bolder, more visual alternative.
 
@@ -11,22 +9,18 @@ As with the marks it replaces, it always appears mid-sentence where you would no
 
 (to make one, use `---` in Camperdown. Do NOT use your operating systems' built in command).
 
-<aside>
-📏 To single out a point, use an em dash. If minus signs are nearby, then use a colon.
+!!!tldr "Rule"
+    To single out a point, use an em dash. If minus signs are nearby, then use a colon.
 
-</aside>
 
-<aside>
-📏 To set off parenthetical information, use two em dashes.
+!!!tldr "Rule"
+    To set off parenthetical information, use two em dashes.
 
-</aside>
 
 Semicolons are ... dead, except in academic writing. For this reason, they are not used in Brilliant courses. Whenever you are inclined to use a semicolon — and we sincerely hope you never are — we recommend using an em dash instead.
 
-<aside>
-📏 To create an emphatic pause between two clauses, use an em dash. If minus signs are nearby, then use a period to separate them into individual sentences.
-
-</aside>
+!!!tldr "Rule"
+    To create an emphatic pause between two clauses, use an em dash. If minus signs are nearby, then use a period to separate them into individual sentences.
 
 What about the comma, you ask? Replacing a comma with an em dash in a sentence is not straightforward to determine. We suggest two rules of thumb:
 
@@ -38,46 +32,36 @@ What about the comma, you ask? Replacing a comma with an em dash in a sentence i
 
 Singling out a point
 
-<aside>
-🚨 And here's the point: punctuation is old fashioned.
+!!! failure "Example"
+    And here's the point: punctuation is old fashioned.
 
-</aside>
 
-<aside>
-✅ And here's the point — punctuation is old fashioned.
-
-</aside>
+!!! success "Example"
+    And here's the point — punctuation is old fashioned.
 
 Pause between clauses
 
-<aside>
-🚨 The dot product of two vectors is not a vector, but a scalar; it is a number that is the same in all coordinate systems.
+!!! failure "Example"
+    The dot product of two vectors is not a vector, but a scalar; it is a number that is the same in all coordinate systems.
 
-</aside>
 
-<aside>
-✅ The dot product of two vectors is not a vector, but a scalar — it is a number that is the same in all coordinate systems.
+!!! success "Example"
+    The dot product of two vectors is not a vector, but a scalar — it is a number that is the same in all coordinate systems.
 
-</aside>
 
-<aside>
-🚨 Any jackass can kick down a barn; it takes a good carpenter to build one.
+!!! failure "Example"
+    Any jackass can kick down a barn; it takes a good carpenter to build one.
 
-</aside>
 
-<aside>
-✅ Any jackass can kick down a barn, but it takes a good carpenter to build one.
+!!! success "Example"
+    Any jackass can kick down a barn, but it takes a good carpenter to build one.
 
-</aside>
 
-<aside>
-✅ Any jackass can kick down a barn. It takes a good carpenter to build one.
+!!! success "Example"
+    Any jackass can kick down a barn. It takes a good carpenter to build one.
 
-</aside>
 
 Replacing enclosing commas or parenthesis
 
-<aside>
-✅ If the planets went in circles — as they nearly do — the time required to go around the circle would be proportional to the 3/2 power of the diameter.
-
-</aside>
+!!! success "Example"
+    If the planets went in circles — as they nearly do — the time required to go around the circle would be proportional to the 3/2 power of the diameter.

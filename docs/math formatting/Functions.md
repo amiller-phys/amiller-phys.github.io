@@ -1,10 +1,8 @@
 # Functions
 
 
-<aside>
-📏 Function notation is a pain point for learners. Nonetheless, it is used frequently across the site.
-
-</aside>
+!!!tldr "Rule"
+    Function notation is a pain point for learners. Nonetheless, it is used frequently across the site.
 
 Outside of a course on calculus, an advanced course that deploys techniques from calculus, or a course that is calculus-adjacent, the function notation $f(x)$ is probably unfamiliar to a typical learner.
 

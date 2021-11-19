@@ -1,7 +1,6 @@
 # Self-location
 
 
-###
 
 - Lessons late in the course should be written as if the learner has done what comes before.
     - If the learner does not understand established concepts, we should make sure to supply more support, in the form of practice problems or extra lessons. But we should not write lessons as if the learner will enter the course in the middle.

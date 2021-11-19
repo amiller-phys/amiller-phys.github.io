@@ -1,9 +1,7 @@
 # Modularity
 
-<aside>
-📏 Ideas in a lesson are presented in a linear stream of thought. A user should be able to glance back through a block and easily identify its key points and arguments.
-
-</aside>
+!!!tldr "Rule"
+    Ideas in a lesson are presented in a linear stream of thought. A user should be able to glance back through a block and easily identify its key points and arguments.
 
 In a textbook, paragraphs advance ideas. In a Brilliant lesson, we develop ideas in much smaller chunks. A Brilliant lesson is a conversation in which the learner participates by answering questions, manipulating interactives, and solving problems.
 
