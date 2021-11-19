@@ -950,28 +950,26 @@
                 
                 
                 <h1 id="units">Units</h1>
-<aside>
-📏 Most numbers in a Brilliant lesson should have units of measure attached.
-
-</aside>
-
+<div class="admonition tldr">
+<p class="admonition-title">Rule</p>
+<p>Most numbers in a Brilliant lesson should have units of measure attached.</p>
+</div>
 <p>Calculating with unit-less numbers can yield ambiguous results. But equally important, units provide additional context to the learner. A number with units can be imagined and compared.</p>
 <p>When a number has a unit of measure, we include the unit wherever we write the number. SI units are used in Brilliant courses, universally.</p>
 <p>Unit symbols are written in lower case letters except for liter <span class="arithmatex">\((\text{L})\)</span> and those units derived from the name of a person. You should never format unit symbols yourself. The built-in tag <code>\SI{}{}</code> will handle this for you. If you want to write just the unit symbol without a number, you can use the tag <code>\si{}</code>.</p>
 <p>By default, the tag <code>\SI{}{}</code> formats units in the denominator of a compound unit with a negative exponent — for example, <span class="arithmatex">\(\text{m} \ \text{s}^{-2}.\)</span> This tag accepts an option <code>[per-mode=symbol]</code> that sets a <code>/</code> in the unit, which is more easily interpretable for most of the Brilliant audience.</p>
-<aside>
-👍 Near the surface of Earth, the acceleration due to gravity is roughly `$\SI[per-mode=symbol]{9.8}{\meter\per\second\squared}$.`
-
-</aside>
-
+<div class="admonition success">
+<p class="admonition-title">Yes</p>
+<p>Near the surface of Earth, the acceleration due to gravity is roughly <code>$\SI[per-mode=symbol]{9.8}{\meter\per\second\squared}$.</code></p>
+</div>
 <p>In the above example, the option sets the unit of <span class="arithmatex">\(g\)</span> as <span class="arithmatex">\(\text{m}/\text{s}^2\)</span>.</p>
 <p>This option incorrect sets a compound unit with a product of units in the denominator. We are working on this capability, and this guidance will be updated when this correct setting of compound units is available. Until then, flag compound unit issues in the Slack channel <code>#editorial-lounge</code>.</p>
 <p>If you are writing the name of a unit in text, the names of all units start with a lower case letter except, of course, at the beginning of the sentence. There is one exception: in "degree Celsius" the unit "degree" is lower case but the modifier "Celsius" is capitalized.</p>
 <p>When a metric value is used as a modifier before a noun, hyphenating the quantity is not necessary.</p>
-<aside>
-✅ Can you fill a `$\SI{2}{\liter}$` bottle with this pair of pitchers?
-
-</aside>
+<div class="admonition success">
+<p class="admonition-title">Yes</p>
+<p>Can you fill a <code>$\SI{2}{\liter}$</code> bottle with this pair of pitchers?</p>
+</div>
                 
               
               
