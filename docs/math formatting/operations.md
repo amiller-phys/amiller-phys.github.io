@@ -10,10 +10,10 @@ A lot of mathematical notation is standard (`+` will always stand for addition).
 
 - A products of two numbers, or a scalar product of two vectors, is indicated by `\cdot`
 
-!!! success ""
+!!! success "Yes"
     $3 \cdot 4 = 12$
 
-!!! failure ""
+!!! failure "No"
     $3 \times 4 = 12$
 
 - A product between a number and a variable needs no explicit operand. Multiplication is understood.

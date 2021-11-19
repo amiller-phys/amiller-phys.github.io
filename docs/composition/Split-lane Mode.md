@@ -1,9 +1,7 @@
 # Split-lane Mode
 
-<aside>
-📏 Use `!splitlanes` when a reference image or interactive should remain on screen as the learner advances between questions.
-
-</aside>
+!!!tldr "Rule"
+        Use `!splitlanes` when a reference image or interactive should remain on screen as the learner advances between questions.
 
 - The reference image or interactive is the subject of multiple questions in this block.
 - Because an image or interactive cannot be removed from the left lane in `!splitlanes` mode, the current guidance is to end the block when the visual is removed from the screen. This guarantees that, by returning to the block, the learner can still access this element after they have advanced beyond it.

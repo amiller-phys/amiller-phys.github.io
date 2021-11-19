@@ -1,23 +1,17 @@
 # Commas
 
-<aside>
-📏 Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
-
-</aside>
+!!!tldr "Rule"
+    Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
 
 Some commas are required. For example:
 
-<aside>
-✅ If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
-
-</aside>
+!!! success "Yes"
+    If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
 
 However, other commas are a matter of taste:
 
-<aside>
-✅ After relaxing the constraint, the number of microstates accessible to the system does not decrease.
-
-</aside>
+!!! success "Yes"
+    After relaxing the constraint, the number of microstates accessible to the system does not decrease.
 
 Placing a comma everywhere you are allowed to place a comma leads to writing that is over-punctuated, so which optional commas should you keep?
 
@@ -28,24 +22,18 @@ Broadly, commas help learner understand the structure of a sentence. If you're n
 
 If the answer to either question is yes, then you should include the comma.
 
-<aside>
-📏 Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
-
-</aside>
+!!! tldr "Rule"
+    Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
 
 Some commas are required. For example:
 
-<aside>
-✅ If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
-
-</aside>
+!!! success "Example"
+    If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
 
 However, other commas are a matter of taste:
 
-<aside>
-✅ After relaxing the constraint, the number of microstates accessible to the system does not decrease.
-
-</aside>
+!!! success "Example"
+    After relaxing the constraint, the number of microstates accessible to the system does not decrease.
 
 Placing a comma everywhere you are allowed to place a comma leads to writing that is over-punctuated, so which optional commas should you keep?
 
@@ -56,17 +44,13 @@ Broadly, commas help learner understand the structure of a sentence. If you're n
 
 If the answer to either question is yes, then you should include the comma.
 
-<aside>
-📏 Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
-
-</aside>
+!!! tldr "Rule"
+    Put a comma everywhere it is required, but only place optional commas when they enhance the clarity of a sentence.
 
 Some commas are required. For example:
 
-<aside>
-✅ If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
-
-</aside>
+!!! success "Example"
+    If a function's derivative is strictly nonzero, then it is either strictly increasing or strictly decreasing.
 
 However, other commas are a matter of taste:
 

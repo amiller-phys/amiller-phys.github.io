@@ -1,9 +1,7 @@
 # Interactive Solvables
 
-<aside>
-📏 **Interactive Solvable** — The question setup text lives outside the solvable box. Only the interactive objective lives inside the box.
-
-</aside>
+!!!tldr "Rule"
+The question setup text lives outside the solvable box. Only the interactive objective lives inside the box.
 
 - The objective is stated inside the solvable box.
 - If there is setup text, it appears above the solvable box.

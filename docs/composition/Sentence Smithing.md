@@ -1,9 +1,7 @@
 # Sentence Smithing
 
-<aside>
-📏 Chisel your sentences while preserving meaning
-
-</aside>
+!!!tldr "Rule"
+    Chisel your sentences while preserving meaning
 
 The first draft of a sentence is usually not the one you want to publish. There are bound to be extra words, or complex structure that can be edited out.
 
