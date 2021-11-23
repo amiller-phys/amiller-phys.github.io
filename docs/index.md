@@ -6,9 +6,8 @@ The draw of Brilliant is our ideas. Our medium, whether writing or images or int
 
 The principles listed below reflect how formatting and language should support the ideas in our lessons. The more specific guidance in the four thematic sections are considered to be logical conclusions from these principles.
 
-:::caution
-This is a non-exhaustive reference. It is a living document that is updated regularly. If the guidance below doesn't address your specific problem, asking in the Slack channel `#editorial-lounge` is also encouraged.**
-:::
+!!! tldr
+    This is a non-exhaustive reference. It is a living document that is updated regularly. If the guidance below doesn't address your specific problem, asking in the Slack channel `#editorial-lounge` is also encouraged.**
 
 ## Composition Principles
 

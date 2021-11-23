@@ -14,27 +14,28 @@
     - The learner has all the information they need to answer, and there is a single right answer — this is the canonical case for MCQs
 - Examples
 
-    <aside>
     ✅ We don't expect the learner to be able to show that 2 is right, but it's useful to get them thinking about it.
 
-    ![Untitled](Lightweight%20Questions%207f5dc070d9184303b5414a31a8366486/Untitled.png)
+    <figure markdown>
+    ![Untitled](img/lightweight.png)
+    </figure>
 
-    </aside>
 
-    <aside>
     🚫 We expect the learner to be able to solve this. Use an MCQ.
 
-    ![Untitled](Lightweight%20Questions%207f5dc070d9184303b5414a31a8366486/Untitled%201.png)
+    <figure markdown>
+    ![Untitled](img/lightweight1.png)
+    </figure>
 
-    </aside>
 
 - Don't say "take a guess, don't worry" when a lightweight choice appears. Instead, consistently use lightweight choice and full MCQ for separate purposes.
     - Examples
 
-        <aside>
         🚫 Here, it is clear from the use of lightweight choice that this is non-committal.
 
-        ![Untitled](Lightweight%20Questions%207f5dc070d9184303b5414a31a8366486/Untitled%202.png)
+        <figure markdown>
+        ![Untitled](img/lightweight2.png)
+        </figure>
 
         Here are some wording suggestions:
 
@@ -66,4 +67,6 @@ They appear in a single lane, unless multiple questions refer to an image or int
 - Lightweight questions do not have official solutions, but text after the question should say whether the learner is right or wrong, or state that the correct answer will be revealed later in the lesson.
 - **[Example](https://brilliant.org/courses/intro-neural-networks/introduction-65/computer-vision-problem/3/?version_id=2023)**
 
-    ![Lightweight%20Questions%207f5dc070d9184303b5414a31a8366486/Untitled%203.png](Lightweight%20Questions%207f5dc070d9184303b5414a31a8366486/Untitled%203.png)
+    <figure markdown>
+    ![Untitled](img/lightweight3.png)
+    </figure>
