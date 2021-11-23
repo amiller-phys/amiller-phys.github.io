@@ -1,7 +1,7 @@
 # Ellipses
 
 !!!tldr "Rule"
-    Ellipses on Brilliant usually mean `and so on`, and are valid end punctuation.
+    Ellipses on Brilliant usually mean "and so on." They are valid end punctuation.
 
 Ellipses indicate an omitted word or phrase from a sentence, but this usage is rare in Brilliant courses outside of character dialogues.
 

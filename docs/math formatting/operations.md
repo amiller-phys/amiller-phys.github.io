@@ -10,11 +10,11 @@ A lot of mathematical notation is standard (`+` will always stand for addition).
 
 - A products of two numbers, or a scalar product of two vectors, is indicated by `\cdot`
 
-!!! success "Yes"
-    $3 \cdot 4 = 12$
+    !!! success "Example"
+        $3 \cdot 4 = 12$
 
-!!! failure "No"
-    $3 \times 4 = 12$
+    !!! failure "Example"
+        $3 \times 4 = 12$
 
 - A product between a number and a variable needs no explicit operand. Multiplication is understood.
 - Division should generally be represented by `/`, but if you are writing for a novice audience, the `÷` symbol is okay. Be aware that `÷` can be confused for a `+` on the site.
