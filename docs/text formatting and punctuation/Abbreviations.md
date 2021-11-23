@@ -7,8 +7,8 @@ Titles in names — such as `Mr.`, `Ms.`, or `Jr.` — should be abbreviated. Th
 
 Latin abbreviations are frequently found in writing, but they are not conversational. In Brilliant lessons, Latin abbreviations should be replaced by English equivalents, or in some instances, with an [em dash](https://www.notion.so/26062a259b434e8888929e5cb64f1e52).
 
-!!! failure "No"
+!!! failure "Example"
     Zeros of the sine function occur at integer multiples of $\pi$ (e.g., $π$, $2π$, and $3π$).
 
-!!! success "Yes"
+!!! success "Example"
     Zeros of the sine function occur at integer multiples of $\pi$ — for instance $π$, $2π$, and $3\pi.$

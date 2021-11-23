@@ -9,18 +9,18 @@ We acknowledge the experience of the learner by writing in the present tense by 
 
 No other tense is allowed.
 
-!!! failure "No"
+!!! failure "Example"
     By the end of the lesson, we will have proved all of the double-angle formulas.
 
-!!! success "Yes"
+!!! success "Example"
     In this lesson, we will prove all the double-angle formulas.
 
 We prefer the first-person plural pronoun "we" to underline the collaborative aspect of learning from a Brilliant lesson, especially when the learner inevitably makes mistakes. The narrator is a comrade, urging the learner to continue. The pronoun "you" is also allowed when "we" doesn't make exact sense. For example, "You can explore how the angle affects the outcome in the plot below."
 
 However, we avoid posing questions with a personal pronoun. Wherever possible, questions should be posed without reference to the learner or the speaker.
 
-!!! failure "No"
+!!! failure "Example"
     Can you find the length of side $A?$
 
-!!! success "Yes"
+!!! success "Example"
     What is the length of side $A?$

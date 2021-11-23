@@ -6,4 +6,4 @@
 
 **[Example:](https://brilliant.org/courses/geometry-fundamentals/area/polygon-areas/2/?version_id=2214)**
 
-[Basic%20Lane%20d546dcf81ad6400fbdd9fda7d39f90aa/Screen_Recording_2021-07-01_at_4.33.02_PM.mov](Basic%20Lane%20d546dcf81ad6400fbdd9fda7d39f90aa/Screen_Recording_2021-07-01_at_4.33.02_PM.mov)
+![Dummy image](img/basicLane.gif){ width="500" }

@@ -11,7 +11,7 @@ Unit symbols are written in lower case letters except for liter $(\text{L})$ and
 
 By default, the tag `\SI{}{}` formats units in the denominator of a compound unit with a negative exponent — for example, $\text{m} \ \text{s}^{-2}.$ This tag accepts an option `[per-mode=symbol]` that sets a `/` in the unit, which is more easily interpretable for most of the Brilliant audience.
 
-!!! success "Yes"
+!!! success "Example"
     Near the surface of Earth, the acceleration due to gravity is roughly `$\SI[per-mode=symbol]{9.8}{\meter\per\second\squared}$.`
 
 In the above example, the option sets the unit of $g$ as $\text{m}/\text{s}^2$.
@@ -22,5 +22,5 @@ If you are writing the name of a unit in text, the names of all units start with
 
 When a metric value is used as a modifier before a noun, hyphenating the quantity is not necessary.
 
-!!! success "Yes"
+!!! success "Example"
     Can you fill a `$\SI{2}{\liter}$` bottle with this pair of pitchers?

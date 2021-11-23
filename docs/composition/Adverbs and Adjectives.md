@@ -4,8 +4,8 @@ The modern world has dissolved common meaning from qualitative adjectives and ad
 
 Avoid using qualitative adverbs for anything but relative comparisons. Absolute statements should never be made using a qualitative adverb or adjective.
 
-!!! success "Yes"
+!!! success "Example"
     The particle moves very quickly through the synchrotron.
 
-!!! failure "No"
+!!! failure "Example"
     Protons are heavier than electrons.

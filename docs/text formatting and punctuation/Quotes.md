@@ -9,5 +9,5 @@ In Brilliant lessons, quotation marks are used for inline formatting of short qu
 
 In rare instances, quotes may be used when you are coining a term.
 
-!!! success "Yes"
+!!! success "Example"
     Your invention, which we will call a "Decision Box," decides what move to play based on what was played on the previous turn.

@@ -7,13 +7,13 @@ Italicized terms are not easy to distinguish from normal text — they "hide out
 
 You can convey conversational importance on a word by italicizing it, but understand that it is likely to be missed on a skim. If it is crucial that people notice your emphasis, always use bold.
 
-!!! failure "No"
+!!! failure "Example"
     "Jack seemed happy, he *really* liked that birdwatching shirt you got him!"
 
 
-!!! failure "No"
+!!! failure "Example"
     Which algorithm would *not* finish in polynomial time?
 
 
-!!! success "Yes"
+!!! success "Example"
     Which algorithm would **not** **finish in polynomial time?

@@ -5,10 +5,12 @@
 
 This formatting guideline is identical to the so-called "headline" style used for titles of most publications. Specifically, the first letters of articles, conjunctions and prepositions — regardless of length — are not capitalized. All other words should begin with a capital letter.
 
-!!! failure "No"
+!!! failure "Example"
+    #Calculus is the language of science
     `! heading1[Calculus is the language of science]`
 
-!!! success "Yes"
+!!! success "Example"
+    #Calculus is the Language of Science
     `! heading1[Calculus is the Language of Science]`
 
 
