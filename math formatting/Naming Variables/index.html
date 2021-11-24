@@ -50,7 +50,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent="">
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
   
     
     <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
@@ -960,32 +960,38 @@
 <li>
 <p><strong>Selecting a symbol</strong></p>
 <p>To start, survey resources on the subject of the lesson. Is there a consensus on representing certain quantities by certain symbols? If so, then you should follow these conventions wherever possible.</p>
-<p><aside>
-🚨 The cruising speed of the jet, <span class="arithmatex">\(a,\)</span> is faster than the speed of sound, <span class="arithmatex">\(D.\)</span></p>
-</aside>
-<p><aside>
-🚨 The Pythagorean Theorem, <span class="arithmatex">\(\zeta^2 = \eta^2 + \theta^2,\)</span> is the relationship between the lengths of the sides of a right triangle.</p>
-</aside>
+<div class="admonition failure">
+<p class="admonition-title">Example</p>
+<p>The cruising speed of the jet, <span class="arithmatex">\(a,\)</span> is faster than the speed of sound, <span class="arithmatex">\(D.\)</span></p>
+</div>
+<div class="admonition failure">
+<p class="admonition-title">Example</p>
+<p>The Pythagorean Theorem, <span class="arithmatex">\(\zeta^2 = \eta^2 + \theta^2,\)</span> is the relationship between the lengths of the sides of a right triangle.</p>
+</div>
 <p>If there is no consensus among teaching resources, then select a symbol that doesn't collide with the variable namespace adjacent to the topic you're teaching, and that jibes with the guidance on naming constants, vectors and matrices.</p>
 </li>
 <li>
 <p><strong>Attaching a subscript</strong></p>
 <p>Next, try to give the symbol you picked a descriptive subscript — an actual English word. If the lesson has a skin, the appropriate subscript should be self-evident. Descriptive subscripts should be formatted with the <code>\text{}</code> markup tag. Only capitalize the subscript if it is a proper name.</p>
 <p>Sometimes, the most obvious subscript is too long. If equations involving your variables with long subscripts start looking messy, try abbreviating the subscript to the first syllable or two. Don't use a period after the abbreviation.</p>
-<p><aside>
-✅ The temperature in the house is <span class="arithmatex">\(T_\text{in}\)</span> and the temperature outside is <span class="arithmatex">\(T_\text{out}.\)</span></p>
-</aside>
+<div class="admonition success">
+<p class="admonition-title">Example</p>
+<p>The temperature in the house is <span class="arithmatex">\(T_\text{in}\)</span> and the temperature outside is <span class="arithmatex">\(T_\text{out}.\)</span></p>
+</div>
 <p>Some situations call for a variable with an index. To distinguish indices from exponents, we prefer subscript indices. Because indices are variables, they should <strong>not</strong> be formatted with the <code>\text{}</code> markup tag. Variables that need an index do <strong>not</strong> need a descriptive subscript. We avoid compound subscripts wherever possible.</p>
-<p><aside>
-🚨 The component of the helium molecule's velocity toward the opening is <span class="arithmatex">\(v_{\text{He},x}.\)</span> The component of the nitrogen molecule's velocity in the same direction is <span class="arithmatex">\(v_{\text{N},x}.\)</span></p>
-</aside>
-<p><aside>
-✅ The component of the helium molecule's velocity toward the opening is <span class="arithmatex">\(v_x.\)</span> The component of the nitrogen molecule's velocity in the same direction is <span class="arithmatex">\(w_x.\)</span></p>
-</aside>
+<div class="admonition failure">
+<p class="admonition-title">Example</p>
+<p>The component of the helium molecule's velocity toward the opening is <span class="arithmatex">\(v_{\text{He},x}.\)</span> The component of the nitrogen molecule's velocity in the same direction is <span class="arithmatex">\(v_{\text{N},x}.\)</span></p>
+</div>
+<div class="admonition success">
+<p class="admonition-title">Example</p>
+<p>The component of the helium molecule's velocity toward the opening is <span class="arithmatex">\(v_x.\)</span> The component of the nitrogen molecule's velocity in the same direction is <span class="arithmatex">\(w_x.\)</span></p>
+</div>
 <p>Other situations call for variables without descriptive subscripts. If you are stating a general relationship, or if a descriptive subscript would be a burden on the learner, you can omit the subscript.</p>
-<p><aside>
-✅ A container of non-interacting gas molecules obeys the ideal gas law, <span class="arithmatex">\(PV = NkT.\)</span></p>
-</aside>
+<div class="admonition success">
+<p class="admonition-title">Example</p>
+<p>A container of non-interacting gas molecules obeys the ideal gas law, <span class="arithmatex">\(PV = NkT.\)</span></p>
+</div>
 </li>
 </ul>
                 

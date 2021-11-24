@@ -3,8 +3,6 @@ theme:
   name: material
   font:
     text: HelveticaNeue
-  palette:
-    scheme: slate
 plugins:
   - search
 markdown_extensions:
